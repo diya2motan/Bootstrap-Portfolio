@@ -1,0 +1,164 @@
+html{
+	height: 100%;
+}
+body {
+    background: url("../images/concrete_seamless.png");
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    line-height: 34px;
+    min-height: 100%;
+    height: 100%;
+}
+
+.cat-img {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+    float: left;
+}
+
+.maincontent {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    min-height: 100%;
+}
+
+.content {}
+
+.navbar-top {
+    background-color: #fff;
+    height: 70px;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+.navbar-right{
+	padding-top: 2%;
+}
+.navbar-right li:hover{
+	background-color: #4aaaa5;
+	color: #fff;
+}
+
+.brandname{
+	background-color: #4aaaa5;
+	font-size: 30px;
+	color: #fff;
+	height: 70px;
+
+	
+}
+
+.brandname:link {
+    background-color: #4aaaa5;
+    padding-top: 24px;
+	font-size: 30px;
+	color: #fff;
+	height: 70px;
+	
+}
+
+.brandname:hover {
+	color:#fff;
+	background-color: #4aaaa5;
+}
+
+.page-header {
+    color: #4aaaa5;
+}
+
+
+.panel-default {}
+
+.caption {
+    
+}
+.push {
+  height: 105px;
+}
+.footer {
+    padding: 30px 0;
+    color: #fff;
+    color: #ccc;
+    font-size: 12px;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.sidebar {
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    color: #4aaaa5;
+    text-align: center;
+}
+
+.sidebar h2 {
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+    border-bottom: 2px solid #eee;
+}
+
+.social:hover {
+    cursor: pointer;
+    opacity: .8;
+}
+
+.social {
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+
+.social:last-child {
+    margin-right: 0;
+}
+
+.work {
+  position: relative;
+  width: 274px;
+  
+  
+  margin: 20px 0 25px;
+}
+
+.work:nth-child(even) {
+  margin-right: 40px;
+}
+
+.work img {
+  width: 100%;
+  border: 0 none;
+  opacity: .8;
+}
+
+.work h3 {
+  position: absolute;
+  bottom: 20px;
+  margin-bottom: 0;
+  padding: 15px;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+  font-weight: 300;
+  background: #4aaaa5;
+  border-bottom: 0;
+}
+
+.btn-submit{
+	background-color: #4aaaa5;
+	color: #fff;
+	width: 90px;
+}
+
